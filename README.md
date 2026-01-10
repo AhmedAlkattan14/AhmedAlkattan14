@@ -41,14 +41,14 @@ strong communication skills, and a clear understanding of client needs.
 ## 📞 Contact Me
 
 - 📱 **Phone / WhatsApp**  
-  `+20 100 288 8767`  
-  `+20 111 115 9919`
+  `+201002888767`  
+  `+201111159919`
 
 - 📧 **Email**  
   Ahmed.alkattan5@gmail.com  
 
 - 💼 **LinkedIn**  
-  https://linkedin.com/in/ahmedalkattan  
+  https://www.linkedin.com/in/ahmed-alkattan/
 
 - 🧑‍💻 **GitHub**  
   https://github.com/AhmedAlkattan14  
