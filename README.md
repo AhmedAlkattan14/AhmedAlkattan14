@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Ahmed Alkattan  
+### Frontend Developer | React & Next.js Specialist  
 
-<!--
-**AhmedAlkattan14/AhmedAlkattan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AhmedAlkattan14&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+🚀 Frontend Developer passionate about building **modern, fast, and responsive web interfaces**  
+with strong focus on **UI/UX, performance, and clean code**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Background in **Sales & Account Management** gives me a business-oriented mindset,  
+strong communication skills, and a clear understanding of client needs.
+
+---
+
+## 🧠 About Me
+- 💻 Frontend Developer  
+- ⚛️ Specialized in **React & Next.js**  
+- 🎨 Strong eye for **UI details & UX**  
+- 📱 Responsive design for all screen sizes  
+- 🤝 Client-focused & business-aware mindset  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+- ⚛️ React.js  
+- ▲ Next.js  
+- 🎨 Tailwind CSS  
+- 🅱️ Bootstrap  
+
+### 🧩 Languages
+- 🟨 JavaScript (ES6+)  
+- 🧱 HTML5  
+- 🎨 CSS3  
+- 💠 C++  
+
+---
+
+## 📞 Contact Me
+
+- 📱 **Phone / WhatsApp**  
+  `+20 100 288 8767`  
+  `+20 111 115 9919`
+
+- 📧 **Email**  
+  Ahmed.alkattan5@gmail.com  
+
+- 💼 **LinkedIn**  
+  https://linkedin.com/in/ahmedalkattan  
+
+- 🧑‍💻 **GitHub**  
+  https://github.com/AhmedAlkattan14  
+
+---
+
+✨ Open for **freelance & full-time opportunities**  
+⭐ Feel free to check my repositories and give them a star
